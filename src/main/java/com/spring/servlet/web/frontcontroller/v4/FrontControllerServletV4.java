@@ -1,6 +1,5 @@
 package com.spring.servlet.web.frontcontroller.v4;
 
-import com.spring.servlet.web.frontcontroller.ModelView;
 import com.spring.servlet.web.frontcontroller.MyView;
 import com.spring.servlet.web.frontcontroller.v4.controller.MemberFormControllerV4;
 import com.spring.servlet.web.frontcontroller.v4.controller.MemberListControllerV4;
